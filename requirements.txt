@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+fastapi-limiter
+redis
+python-dotenv
+pinecone
+groq
+PyPDF2
